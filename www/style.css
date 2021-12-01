@@ -1,0 +1,16 @@
+้html, body{
+    font-family: 'Prompt', sans-serif;
+}
+
+.mb-200{
+    margin-bottom: 200px;
+}
+
+.prompt{
+    font-family: 'Prompt', sans-serif;
+}
+
+#map{
+    height: 640px;
+}
+
